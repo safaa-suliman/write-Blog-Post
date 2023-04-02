@@ -53,10 +53,8 @@ conflict_data_sdn.svn : dataset from 89-2023
 Licensing, Authors, Acknowledgements
 the data is downloaded from ACLED website. i achnowledge Udacity team for clear leasons and great support.
 
-you can find full report about analyzing conflicts in last 3 year here:
+### you can find full report about analyzing conflicts in last 3 year here:
 
-And you can find full report about analyzing conflicts in sudan from 1989 - 2023 here:
+  https://github.com/safaa-suliman/write-Blog-Post/wiki
 
-
-
-The Blog Post avaliable here: https://github.com/safaa-suliman/write-Blog-Post/wiki
+### And you can find full report about analyzing conflicts in sudan from 1989 - 2023 here:
