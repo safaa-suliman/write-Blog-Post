@@ -58,3 +58,6 @@ the data is downloaded from ACLED website. i achnowledge Udacity team for clear 
   https://github.com/safaa-suliman/write-Blog-Post/wiki
 
  And you can find full report about analyzing conflicts in sudan from 1989 - 2023 here:
+ 
+ https://github.com/safaa-suliman/write-Blog-Post/wiki/Analysis-of-Conflict-in-Sudan:-A-Focus-on-Fatalities,-Conflict-Types,-and-Regions-(1989-2023)
+ 
